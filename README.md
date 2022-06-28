@@ -1,1 +1,1 @@
-# Mobile-Wiki-radirect
+# Mobile-Wiki-redirect
