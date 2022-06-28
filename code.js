@@ -5,7 +5,7 @@
 // @description  Mobile Wiki redirect
 // @author       You
 // @match        https://zh.m.wikipedia.org/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         
 // @grant        none
 // ==/UserScript==
 
